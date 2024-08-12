@@ -1,0 +1,99 @@
+$sapBlue: #0C5AA6;
+$lightBlue: #0fb5cb;
+
+
+
+body {
+  min-height:100vh;
+}
+
+
+
+.flex-fill {
+  flex: 1 1 auto;
+}
+
+
+
+
+
+a {
+  color: $sapBlue;
+}
+a:link {
+  color: $sapBlue;
+}
+a:hover {
+  color: $lightBlue;
+}
+// a:visited {
+//   color: $sapBlue;
+// }
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.display-6 {
+  font-size: 2rem;
+}
+
+
+img.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-height: 500px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+@media screen and (max-width: 620px) {
+  img.centered {
+    max-width: 70vw;
+  }
+}
+
+@media screen and (min-width: 621px) {
+  img.centered {
+    max-width: 400px;
+  }
+}
+
+
+
+
+
+.btn-outline-primary {
+  color: $sapBlue;
+  border-color: $sapBlue;
+}
+.btn-outline-primary:hover {
+  background-color: $sapBlue;
+  border-color: $sapBlue;
+}
+.btn-outline-primary:focus {
+  outline: none !important;
+  box-shadow: none;
+}
+
+
+.highlight {
+  padding: 10px;
+}

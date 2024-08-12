@@ -1,0 +1,61 @@
+---
+layout: default
+title: BGoV
+---
+
+
+    <div class="container">
+        <div class="row text-center mt-5">
+            <h1>Bayerischer Go-Verein e. V.</h1>
+            <img class="mt-4 centered" src="/assets/images/card_go.webp" alt="Photo eines Go Bretts mit Steinen">
+        </div>
+    </div>
+
+    <div class="container mb-5" style="max-width: 1400px;">
+        <div class="row text-center m-5">
+            <h3>Kontakt</h3>
+            <p>info[at]bgov.de</p>
+        </div>
+        <div class="row text-center m-5">
+            <h3 class="mb-4">Spieletreffs in Bayern</h3>
+            <table>
+                <tr style="border-bottom: solid black 1px;">
+                    <th>Ort</th>
+                    <th style="min-width: 300px;">Adresse</th>
+                    <th style="min-width: 200px;">Zeit</th>
+                    <th style="min-width: 300px;">Kontakt</th>
+                    <th>Bemerkung</th>
+                </tr>
+                {% for item in site.data.meet_ups %}
+                    {% assign mod = forloop.index0 | modulo:2 %}
+                    {% if mod == 1 %}
+                        <tr>
+                    {% else %}
+                        <tr style="background-color: #eee;">
+                    {% endif %}
+                    <td>{{ item.city }}</td>
+                    <td>{{ item.adress }}</td>
+                    <td>{{ item.time }}</td>
+                    <td>{{ item.contact }}</td>
+                    <td>{{ item.remark }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+        <div class="row text-center m-5">
+                <h3>Förderung des Go in Bayern</h3>
+                <p>Werbematerial in der Form von Visitenkarten für Spieletreffs.</p>
+                <p>Finanzielle Unterstützung von Turnieren und anderen Veranstaltungen; insbesondere Kostenübernahme der Veranstalterhaftpflichtversicherung (durch DGoB) für Turniere.</p>
+        </div>
+
+        <div class="row text-center m-5">
+            <h3>Vorstand des BGoV</h3>
+            <p>Erster Vorsitzender: Bernhard Werner</p>
+            <p>Stellvertretender Vorsitzender: Peter Werner</p>
+            <p>Schatzmeisterin & Mitgliedsverwaltung: Susanne Seyb</p>
+        </div>
+        <div class="row text-center m-5">
+            <h3>Zum Deutschen Go-Bund</h3>
+            <p><a href="https://www.dgob.de" target="_blank">www.dgob.de</a></p>
+        </div>
+    </div>

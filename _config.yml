@@ -1,0 +1,26 @@
+title: Bayerischer Go-Verein e. V.
+#tagline: Résumé and portfolio
+description: Informationen zum Bayerischen Go-Verein
+url: https://www.bgov.de
+author: Bernhard Werner
+
+
+
+plugins:
+  - jekyll-sitemap
+
+
+# markdown: kramdown
+# highlighter: rouge
+
+# kramdown:
+#   math_engine: katex
+#   footnote_backlink: "&#8624;"
+#   input: GFM
+#   auto_ids: true
+#   syntax_highlighter: rouge
+#   syntax_highlighter_opts:
+#     block:
+#       line_numbers: false
+
+
