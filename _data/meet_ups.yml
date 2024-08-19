@@ -1,6 +1,23 @@
 #<br><i class='ph ph-phone'></i>
 #<br><i class='ph ph-envelope'></i>
 
+
+- city: 86356 Augsburg
+  adress: Il Galeone<br>Steppacher Straße 1
+  time: donnerstags<br>ab 18:30
+  contact: Thomas Brückmann<br><i class='ph ph-envelope'></i> thobrueck[at]arcor.de
+  remark: 
+
+
+
+- city: 85435 Erding
+  adress: Posenerstraße 12
+  time: montags<br>ab 19:00
+  contact: Klaus Flügge<br><i class='ph ph-phone'></i> 08122-902914<br><i class='ph ph-envelope'></i> frey-fluegge[at]t-online.de
+  remark: 
+
+
+
 - city: 91052 Erlangen
   adress: Katholische Hochschul-Stud.-Gem.<br>Pacelli-Haus<br>Sieboldstraße 3
   time: montags<br>ab 20:00
@@ -13,28 +30,38 @@
   contact: Robert Grüning<br><i class='ph ph-phone'></i> 0157/35549462<br><i class='ph ph-envelope'></i> Info[at]GoFans.de
   remark: 
 
-- city: 90402 Nürnberg
-  adress: Filmhauscafe im KunstKulturQuartier K4<br>Königsstraße 93
-  time: dienstags<br>18:00&ndash;22:00
-  contact: Andreas Melzer<br><i class='ph ph-phone'></i> 0176/63425153<br><i class='ph ph-envelope'></i> andreasmelzer1[at]gmx.de<br>Horst Karl<br><i class='ph ph-phone'></i> 0911/65007755<br><i class='ph ph-envelope'></i> horstkarl[at]gmx.de
-  remark: Im Sommer im K4 Kulturgarten nebenan.
-
-- city: 93049 Regensburg
-  adress: China Restaurant REZ<br>Rennweg 12
-  time: montags<br>19:00&ndash;23:00
-  contact: Christian Seidel<br><i class='ph ph-phone'></i> 0151/14095954<br><i class='ph ph-envelope'></i> c.s.go[at]gmx.de<br>Wolfgang Kapfer<br><i class='ph ph-envelope'></i> wolfgang.kapfer[at]gmx.de
-  remark: 
-
-- city: 86356 Augsburg
-  adress: Il Galeone<br>Steppacher Straße 1
-  time: donnerstags<br>ab 18:30
-  contact: Thomas Brückmann<br><i class='ph ph-envelope'></i> thobrueck[at]arcor.de
-  remark: 
 
 - city: 82205 Gilching
   adress: Topschach<br>Karolingerstraße 14
   time: samstags, 15:00&ndash;17:00
   contact: Benjamin Aldag<br><i class='ph ph-phone'></i> 08105/3932140<br><i class='ph ph-envelope'></i> service[at]topschach.de
+  remark: 
+
+
+
+  
+
+
+- city: 84034 Landshut
+  adress: Drei Ritter<br>Johannisstraße 9
+  time: freitags<br>18:00&ndash;23:00
+  contact: Georg Engl<br><i class='ph ph-phone'></i> 0170/2376608<br><i class='ph ph-envelope'></i> engl.georg[at]gmail.com
+  remark: 
+
+
+
+
+
+- city: 80799 München
+  adress: Technische Universität München<br>Seminarraum 0502.01.221<br>Arcisstraße 21
+  time: freitags<br>18:00&ndash;23:00
+  contact: Peter von Niebelschütz<br><i class='ph ph-phone'></i> 0178/8725774<br><i class='ph ph-envelope'></i> fogshot[at]gmail.com
+  remark: Raumfinder der TUM:<br><a href='https://nav.tum.de/room/0502.01.221' target='_blank'>https://nav.tum.de/room/0502.01.221</a>
+
+- city: 80804 München-Schwabing
+  adress: Cafe Scheidplatz<br>Belgradstraße 104 
+  time: dienstags<br>18:00&ndash;23:00
+  contact: Joachim Bitzer<br><i class='ph ph-phone'></i> 089/301961<br>Thomas Furtner<br><i class='ph ph-phone'></i> 0160/96261998
   remark: 
 
 - city: 80992 München-Moosach
@@ -43,34 +70,33 @@
   contact: Thomas Furtner<br><i class='ph ph-phone'></i> 0160/96261998<br><i class='ph ph-envelope'></i> post[at]tom-future.de
   remark: 
 
-- city: 80804 München-Schwabing
-  adress: Cafe Scheidplatz<br>Belgradstraße 104 
-  time: dienstags<br>18:00&ndash;23:00
-  contact: Joachim Bitzer<br><i class='ph ph-phone'></i> 089/301961<br>Thomas Furtner<br><i class='ph ph-phone'></i> 0160/96261998
-  remark: 
 
-- city: 80799 München
-  adress: Technische Universität München<br>Seminarraum 0502.01.221<br>Arcisstraße 21
-  time: freitags<br>18:00&ndash;23:00
-  contact: Peter von Niebelschütz<br><i class='ph ph-phone'></i> 0178/8725774<br><i class='ph ph-envelope'></i> fogshot[at]gmail.com
-  remark: Raumfinder der TUM:<br><a href='https://nav.tum.de/room/0502.01.221' target='_blank'>https://nav.tum.de/room/0502.01.221</a>
-- city: 85435 Erding
-  adress: Posenerstraße 12
-  time: montags<br>ab 19:00
-  contact: Klaus Flügge<br><i class='ph ph-phone'></i> 08122-902914<br><i class='ph ph-envelope'></i> frey-fluegge[at]t-online.de
-  remark: 
 
-- city: 84034 Landshut
-  adress: Drei Ritter<br>Johannisstraße 9
-  time: freitags<br>18:00&ndash;23:00
-  contact: Georg Engl<br><i class='ph ph-phone'></i> 0170/2376608<br><i class='ph ph-envelope'></i> engl.georg[at]gmail.com
-  remark: 
+
+- city: 90402 Nürnberg
+  adress: Filmhauscafe im KunstKulturQuartier K4<br>Königsstraße 93
+  time: dienstags<br>18:00&ndash;22:00
+  contact: Andreas Melzer<br><i class='ph ph-phone'></i> 0176/63425153<br><i class='ph ph-envelope'></i> andreasmelzer1[at]gmx.de<br>Horst Karl<br><i class='ph ph-phone'></i> 0911/65007755<br><i class='ph ph-envelope'></i> horstkarl[at]gmx.de
+  remark: Im Sommer im K4 Kulturgarten nebenan.
+
+
+
 
 - city: 94032 Passau
   adress: Café Lopes, 1. Stock<br>Theresienstraße 8
   time: montags<br>19:00&ndash;23:00
   contact: Florian Waschbichler<br><i class='ph ph-phone'></i> 0176/22880689<br><i class='ph ph-envelope'></i> florian.waschbichler[at]gmx.de
   remark: 
+
+
+
+
+- city: 93049 Regensburg
+  adress: China Restaurant REZ<br>Rennweg 12
+  time: montags<br>19:00&ndash;23:00
+  contact: Christian Seidel<br><i class='ph ph-phone'></i> 0151/14095954<br><i class='ph ph-envelope'></i> c.s.go[at]gmx.de<br>Wolfgang Kapfer<br><i class='ph ph-envelope'></i> wolfgang.kapfer[at]gmx.de
+  remark: 
+
 
 - city: 83026 Rosenheim
   adress: Bürgerhaus Happing<br>Happinger Straße 83
