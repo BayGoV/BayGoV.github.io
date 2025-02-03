@@ -18,11 +18,11 @@
 
 
 
-- city: 91052 Erlangen
-  adress: Katholische Hochschul-Stud.-Gem.<br>Pacelli-Haus<br>Sieboldstraße 3
-  time: montags<br>ab 20:00
-  contact: Horst Schrebe<br><i class='ph ph-phone'></i> 09131/481926<br>Bernhard Gaißmaier<br><i class='ph ph-phone'></i> 09131/52693<br><i class='ph ph-envelope'></i> bernhard[at]go-erlangen.de
-  remark: 
+# - city: 91052 Erlangen
+#   adress: Katholische Hochschul-Stud.-Gem.<br>Pacelli-Haus<br>Sieboldstraße 3
+#   time: montags<br>ab 20:00
+#   contact: Horst Schrebe<br><i class='ph ph-phone'></i> 09131/481926<br>Bernhard Gaißmaier<br><i class='ph ph-phone'></i> 09131/52693<br><i class='ph ph-envelope'></i> bernhard[at]go-erlangen.de
+#   remark: 
 
 - city: 90762 Fürth
   adress: Kofferfabrik<br>Lange Straße 81
